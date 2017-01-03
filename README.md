@@ -10,11 +10,17 @@ Node version: 5.0.0+
 
 ## Testing
 - Coverage Summary
+
 =============================== Coverage summary ===============================
+
 Statements   : 94.2% ( 65/69 )
+
 Branches     : 87.5% ( 28/32 )
+
 Functions    : 100% ( 9/9 )
+
 Lines        : 94.2% ( 65/69 )
+
 ================================================================================
 
 - Base Cases + Integration tests
