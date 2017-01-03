@@ -1,0 +1,21 @@
+{
+  "name": "bp3",
+  "version": "1.0.0",
+  "description": "Coding challenge 2016",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "istanbul cover node_modules/jasmine/bin/jasmine.js JASMINE_CONFIG_PATH=tests/jasmine.json"
+  },
+  "keywords": [
+    "bp3",
+    "coding",
+    "challenge"
+  ],
+  "author": "pastorsj",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.5.2"
+  }
+}
